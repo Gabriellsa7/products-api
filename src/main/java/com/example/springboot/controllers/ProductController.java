@@ -32,7 +32,7 @@ public class ProductController {
         return ResponseEntity.status(HttpStatus.CREATED).body(productRepository.save(productModel));
     }
 
-    // #Read methods
+    // #Read methods;
 
     //This method get all products
     @GetMapping("/products")
