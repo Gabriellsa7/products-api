@@ -14,11 +14,11 @@ This project is an API for managing products developed with Java and Spring Boot
 
 ## Technologies Used
 
-- **Java 17**
+- **Java 21**
 - **Spring Boot 3**
 - **Spring Data JPA**
-- **H2 Database (or another database of your choice)**
-- **Maven/Gradle (depending on the build system used)**
+- **MySQL**
+- **Maven**
 
 ## Endpoints
 
